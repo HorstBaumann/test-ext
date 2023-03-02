@@ -1,0 +1,14 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<table class="tx-test">
+	<tr>
+		<td><f:translate key="tx_test_domain_model_test.titel" /></td>
+		<td>{test.titel}</td>
+	</tr>
+	<tr>
+		<td><f:translate key="tx_test_domain_model_test.image" /></td>
+		<td>
+				<f:image src="{test.image.originalResource.publicUrl}" width="200"/>
+            </td>
+	</tr>
+</table>
+</html>

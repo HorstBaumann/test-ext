@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:test/Resources/Private/Language/locallang_csh_tx_test_domain_model_test.xlf" date="2023-03-01T15:53:49Z" product-name="test">
+		<header/>
+		<body>
+			<trans-unit id="titel.description" resname="titel.description">
+				<source>titel</source>
+			</trans-unit>
+			<trans-unit id="image.description" resname="image.description">
+				<source>image</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
